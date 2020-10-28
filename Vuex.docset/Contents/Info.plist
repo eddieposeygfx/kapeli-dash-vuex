@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>Vuex</string>
+	<key>CFBundleName</key>
+	<string>Vuex</string>
+	<key>DocSetPlatformFamily</key>
+	<string>Vuex</string>
+	<key>isDashDocset</key>
+	<true/>
+	<key>DashDocSetFamily</key>
+	<string>dashtoc</string>
+	<key>dashIndexFilePath</key>
+	<string>./vuex.vuejs.org/index.html</string>
+	<key>isJavaScriptEnabled</key><true/>
+	<key>DashDocSetFallbackURL</key>
+	<string>https://vuex.vuejs.org/#what-is-a-state-management-pattern</string>
+</dict>
+</plist>

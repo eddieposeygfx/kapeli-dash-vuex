@@ -1,0 +1,16 @@
+{
+    "name": "Vuex",
+    "package": "Vuex",
+    "index": "./vuex.vuejs.org/index.html",
+    "selectors": {
+        "p.sidebar-heading span": "Guide",
+        "h1": "Section",
+        "h2": "Section"
+    },
+    "ignore": [
+        "ABOUT"
+    ],
+    "icon32x32": "./vuex.vuejs.org/logo.png",
+    "allowJS": true,
+    "ExternalURL": "https://vuex.vuejs.org/#what-is-a-state-management-pattern"
+}
